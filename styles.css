@@ -55,6 +55,7 @@ h1 {
 
 section {
     height: 400px;
+    color: white;
     background-color: blue;
     
 
@@ -106,7 +107,7 @@ footer {
 }
 
 .project-link{
-    color: black;
+    color: white;
 }
 
 
