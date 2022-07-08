@@ -36,7 +36,9 @@ body {
 
     display: flex;
     justify-content: space-between;
-}
+    
+} 
+  /* scroll-behavior:smooot makes the page scroll smothly */
 html{
     scroll-behavior: smooth;
 }
@@ -105,11 +107,6 @@ footer {
     font-size: 20px;
     color: darkmagenta;
 }
-
-.project-link{
+#featured a{
     color: white;
 }
-
-
-
-
